@@ -32,7 +32,7 @@ I'm a Front-end developer based in 🇰🇷 Seoul, Korea
 [![JungHyun's github stats](https://github-readme-stats.vercel.app/api?username=leahincom&show_icons=true&theme=tokyonight)](https://github.com/leahincom/github-readme-stats)
 
    
-### Things I Code with
+### I'm working with
 
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />

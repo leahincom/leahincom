@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there, I'm JungHyun!
+## 👋 Hi, I'm JungHyun
 
 I'm a Front-end developer based in 🇰🇷 Seoul, Korea
 

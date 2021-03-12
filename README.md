@@ -79,5 +79,5 @@ I'm a Front-end developer based in 🇰🇷 Seoul, Korea
    
 ### Contact Me
 
-<img alt="email" src="https://img.shields.io/badge/-gmail-EA4336?style=flat-square&logo=Gmail&logoColor=white" />
+<img alt="email" src="https://img.shields.io/badge/-gmail-EA4336?style=flat-square&logo=Gmail&logoColor=white" /> leahincom@gmail.com
 

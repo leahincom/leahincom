@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm JungHyun!
+## Hi there, I'm JungHyun!
 
 I'm a Front-end developer based in 🇰🇷 Seoul, Korea
 
@@ -32,7 +32,7 @@ I'm a Front-end developer based in 🇰🇷 Seoul, Korea
 [![JungHyun's github stats](https://github-readme-stats.vercel.app/api?username=leahincom&show_icons=true&theme=tokyonight)](https://github.com/leahincom/github-readme-stats)
 
    
-#### Things I Code with
+### Things I Code with
 
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -52,7 +52,7 @@ I'm a Front-end developer based in 🇰🇷 Seoul, Korea
 
 
    
-#### Open Source Projects
+### Open Source Projects
 
 <table>
   <th>Projects</th>
@@ -77,7 +77,7 @@ I'm a Front-end developer based in 🇰🇷 Seoul, Korea
 
 
    
-#### Contact Me
+### Contact Me
 
 <img alt="email" src="https://img.shields.io/badge/-gmail-EA4336?style=flat-square&logo=Gmail&logoColor=white" />
 
